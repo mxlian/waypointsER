@@ -8,6 +8,10 @@ Podes verlos en este mapa:
 
 https://drive.google.com/open?id=1d6M1QwJvKgQwmjCkJ7wUT4sV28Z7Zrpj&usp=sharing
 
+# Donde me bajo los archivos para el gps/vario?
+
+De acá: https://github.com/mxlian/waypointsER/download
+
 # Copado, pero algo esta mal!
 Para agregar o corregir waypoints pueden mandar un mensaje o abrir un issue.
 
