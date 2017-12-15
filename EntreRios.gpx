@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <bounds minlat="-33.143300700" minlon="-60.637621900" maxlat="-30.949346900" maxlon="-58.018798800"/>
+  <wpt lat="-31.871362200" lon="-60.007324200">
+    <ele>0.000000</ele>
+    <name>Viale</name>
+    <cmt>Viale</cmt>
+    <desc>Viale</desc>
+  </wpt>
+  <wpt lat="-31.734956200" lon="-60.219841000">
+    <ele>0.000000</ele>
+    <name>Club planeadores</name>
+    <cmt>Club planeadores</cmt>
+    <desc>Club planeadores</desc>
+  </wpt>
+  <wpt lat="-31.697354500" lon="-60.122509000">
+    <ele>0.000000</ele>
+    <name>Camino tornear P. Piedras</name>
+    <cmt>Camino tornear P. Piedras</cmt>
+    <desc>Camino tornear P. Piedras</desc>
+  </wpt>
+  <wpt lat="-31.661052600" lon="-59.900722500">
+    <ele>0.000000</ele>
+    <name>Maria Grande</name>
+    <cmt>Maria Grande</cmt>
+    <desc>Maria Grande</desc>
+  </wpt>
+  <wpt lat="-31.736124200" lon="-59.910936400">
+    <ele>0.000000</ele>
+    <name>Sosa</name>
+    <cmt>Sosa</cmt>
+    <desc>Sosa</desc>
+  </wpt>
+  <wpt lat="-31.803476100" lon="-59.933166500">
+    <ele>0.000000</ele>
+    <name>Tabossi</name>
+    <cmt>Tabossi</cmt>
+    <desc>Tabossi</desc>
+  </wpt>
+  <wpt lat="-31.582337700" lon="-59.891624500">
+    <ele>0.000000</ele>
+    <name>El pingo</name>
+    <cmt>El pingo</cmt>
+    <desc>El pingo</desc>
+  </wpt>
+  <wpt lat="-31.511239700" lon="-59.834289600">
+    <ele>0.000000</ele>
+    <name>Hasenkamp</name>
+    <cmt>Hasenkamp</cmt>
+    <desc>Hasenkamp</desc>
+  </wpt>
+  <wpt lat="-31.427518800" lon="-59.744392600">
+    <ele>0.000000</ele>
+    <name>La garzas</name>
+    <cmt>La garzas</cmt>
+    <desc>La garzas</desc>
+  </wpt>
+  <wpt lat="-31.456086900" lon="-59.598555600">
+    <ele>0.000000</ele>
+    <name>Alcaraz</name>
+    <cmt>Alcaraz</cmt>
+    <desc>Alcaraz</desc>
+  </wpt>
+  <wpt lat="-31.338683200" lon="-59.443931600">
+    <ele>0.000000</ele>
+    <name>Bovril</name>
+    <cmt>Bovril</cmt>
+    <desc>Bovril</desc>
+  </wpt>
+  <wpt lat="-31.237609600" lon="-59.220042200">
+    <ele>0.000000</ele>
+    <name>Sauce de Luna</name>
+    <cmt>Sauce de Luna</cmt>
+    <desc>Sauce de Luna</desc>
+  </wpt>
+  <wpt lat="-30.949346900" lon="-58.785781900">
+    <ele>0.000000</ele>
+    <name>Federal</name>
+    <cmt>Federal</cmt>
+    <desc>Federal</desc>
+  </wpt>
+  <wpt lat="-31.391157500" lon="-58.018798800">
+    <ele>0.000000</ele>
+    <name>Concordia</name>
+    <cmt>Concordia</cmt>
+    <desc>Concordia</desc>
+  </wpt>
+  <wpt lat="-31.624444200" lon="-58.505973800">
+    <ele>0.000000</ele>
+    <name>San Salvador</name>
+    <cmt>San Salvador</cmt>
+    <desc>San Salvador</desc>
+  </wpt>
+  <wpt lat="-31.733058300" lon="-58.634033200">
+    <ele>0.000000</ele>
+    <name>Jubileo</name>
+    <cmt>Jubileo</cmt>
+    <desc>Jubileo</desc>
+  </wpt>
+  <wpt lat="-31.829440600" lon="-58.821315800">
+    <ele>0.000000</ele>
+    <name>Villa Clara</name>
+    <cmt>Villa Clara</cmt>
+    <desc>Villa Clara</desc>
+  </wpt>
+  <wpt lat="-31.863562500" lon="-59.028167700">
+    <ele>0.000000</ele>
+    <name>Villaguay</name>
+    <cmt>Villaguay</cmt>
+    <desc>Villaguay</desc>
+  </wpt>
+  <wpt lat="-31.802527900" lon="-59.159488700">
+    <ele>0.000000</ele>
+    <name>Paso de la Laguna</name>
+    <cmt>Paso de la Laguna</cmt>
+    <desc>Paso de la Laguna</desc>
+  </wpt>
+  <wpt lat="-31.805591500" lon="-59.166097600">
+    <ele>0.000000</ele>
+    <name>E. Servicio 5 Bocas</name>
+    <cmt>E. Servicio 5 Bocas</cmt>
+    <desc>E. Servicio 5 Bocas</desc>
+  </wpt>
+  <wpt lat="-31.581460200" lon="-60.075302100">
+    <ele>0.000000</ele>
+    <name>Cerrito</name>
+    <cmt>Cerrito</cmt>
+    <desc>Cerrito</desc>
+  </wpt>
+  <wpt lat="-31.611178300" lon="-60.006508800">
+    <ele>0.000000</ele>
+    <name>Aldea Santa Maria</name>
+    <cmt>Aldea Santa Maria</cmt>
+    <desc>Aldea Santa Maria</desc>
+  </wpt>
+  <wpt lat="-31.228215600" lon="-59.985523200">
+    <ele>0.000000</ele>
+    <name>Hernandarias</name>
+    <cmt>Hernandarias</cmt>
+    <desc>Hernandarias</desc>
+  </wpt>
+  <wpt lat="-31.884262900" lon="-60.408496900">
+    <ele>0.000000</ele>
+    <name>Aldea Maria Luisa</name>
+    <cmt>Aldea Maria Luisa</cmt>
+    <desc>Aldea Maria Luisa</desc>
+  </wpt>
+  <wpt lat="-31.905177100" lon="-60.474028600">
+    <ele>0.000000</ele>
+    <name>Villa Fontana</name>
+    <cmt>Villa Fontana</cmt>
+    <desc>Villa Fontana</desc>
+  </wpt>
+  <wpt lat="-31.824481700" lon="-60.520420100">
+    <ele>0.000000</ele>
+    <name>Oro Verde</name>
+    <cmt>Oro Verde</cmt>
+    <desc>Oro Verde</desc>
+  </wpt>
+  <wpt lat="-31.789706900" lon="-60.481839200">
+    <ele>0.000000</ele>
+    <name>Aeropuerto JJUrquiza</name>
+    <cmt>Aeropuerto JJUrquiza</cmt>
+    <desc>Aeropuerto JJUrquiza</desc>
+  </wpt>
+  <wpt lat="-31.784071000" lon="-60.437164300">
+    <ele>0.000000</ele>
+    <name>San Benito</name>
+    <cmt>San Benito</cmt>
+    <desc>San Benito</desc>
+  </wpt>
+  <wpt lat="-31.841909700" lon="-60.373992900">
+    <ele>0.000000</ele>
+    <name>Sauce Pinto</name>
+    <cmt>Sauce Pinto</cmt>
+    <desc>Sauce Pinto</desc>
+  </wpt>
+  <wpt lat="-31.954784000" lon="-60.124740600">
+    <ele>0.000000</ele>
+    <name>Segui</name>
+    <cmt>Segui</cmt>
+    <desc>Segui</desc>
+  </wpt>
+  <wpt lat="-32.619569000" lon="-60.153751400">
+    <ele>0.000000</ele>
+    <name>Victoria</name>
+    <cmt>Victoria</cmt>
+    <desc>Victoria</desc>
+  </wpt>
+  <wpt lat="-32.390398700" lon="-59.793434100">
+    <ele>0.000000</ele>
+    <name>Nogoya</name>
+    <cmt>Nogoya</cmt>
+    <desc>Nogoya</desc>
+  </wpt>
+  <wpt lat="-32.336749900" lon="-60.026722000">
+    <ele>0.000000</ele>
+    <name>Hernandez</name>
+    <cmt>Hernandez</cmt>
+    <desc>Hernandez</desc>
+  </wpt>
+  <wpt lat="-32.241989300" lon="-60.161819500">
+    <ele>0.000000</ele>
+    <name>Aranguren</name>
+    <cmt>Aranguren</cmt>
+    <desc>Aranguren</desc>
+  </wpt>
+  <wpt lat="-32.173723600" lon="-60.200443300">
+    <ele>0.000000</ele>
+    <name>Ramirez</name>
+    <cmt>Ramirez</cmt>
+    <desc>Ramirez</desc>
+  </wpt>
+  <wpt lat="-32.112785900" lon="-60.228338300">
+    <ele>0.000000</ele>
+    <name>Camps</name>
+    <cmt>Camps</cmt>
+    <desc>Camps</desc>
+  </wpt>
+  <wpt lat="-32.032818500" lon="-60.309362400">
+    <ele>0.000000</ele>
+    <name>Crespo</name>
+    <cmt>Crespo</cmt>
+    <desc>Crespo</desc>
+  </wpt>
+  <wpt lat="-31.983472300" lon="-60.408668500">
+    <ele>0.000000</ele>
+    <name>Racedo</name>
+    <cmt>Racedo</cmt>
+    <desc>Racedo</desc>
+  </wpt>
+  <wpt lat="-31.998541000" lon="-60.358543400">
+    <ele>0.000000</ele>
+    <name>Aldea Chaleco</name>
+    <cmt>Aldea Chaleco</cmt>
+    <desc>Aldea Chaleco</desc>
+  </wpt>
+  <wpt lat="-32.014517000" lon="-60.239281700">
+    <ele>0.000000</ele>
+    <name>Aldea Santa Rosa</name>
+    <cmt>Aldea Santa Rosa</cmt>
+    <desc>Aldea Santa Rosa</desc>
+  </wpt>
+  <wpt lat="-31.925922700" lon="-60.547124100">
+    <ele>0.000000</ele>
+    <name>Aldea Salto</name>
+    <cmt>Aldea Salto</cmt>
+    <desc>Aldea Salto</desc>
+  </wpt>
+  <wpt lat="-31.991043400" lon="-60.586166400">
+    <ele>0.000000</ele>
+    <name>Villa Valle Maria</name>
+    <cmt>Villa Valle Maria</cmt>
+    <desc>Villa Valle Maria</desc>
+  </wpt>
+  <wpt lat="-32.002799100" lon="-60.585651400">
+    <ele>0.000000</ele>
+    <name>Shell de Valle Maria</name>
+    <cmt>Shell de Valle Maria</cmt>
+    <desc>Shell de Valle Maria</desc>
+  </wpt>
+  <wpt lat="-32.028561800" lon="-60.562434200">
+    <ele>0.000000</ele>
+    <name>Aldea Protestante</name>
+    <cmt>Aldea Protestante</cmt>
+    <desc>Aldea Protestante</desc>
+  </wpt>
+  <wpt lat="-32.053808100" lon="-60.613417600">
+    <ele>0.000000</ele>
+    <name>Strobel</name>
+    <cmt>Strobel</cmt>
+    <desc>Strobel</desc>
+  </wpt>
+  <wpt lat="-32.069810800" lon="-60.637621900">
+    <ele>0.000000</ele>
+    <name>Diamante</name>
+    <cmt>Diamante</cmt>
+    <desc>Diamante</desc>
+  </wpt>
+  <wpt lat="-32.054353700" lon="-60.444030800">
+    <ele>0.000000</ele>
+    <name>Puiggari</name>
+    <cmt>Puiggari</cmt>
+    <desc>Puiggari</desc>
+  </wpt>
+  <wpt lat="-32.077665600" lon="-60.461357800">
+    <ele>0.000000</ele>
+    <name>Libertador San Martin</name>
+    <cmt>Libertador San Martin</cmt>
+    <desc>Libertador San Martin</desc>
+  </wpt>
+  <wpt lat="-32.307356400" lon="-60.420684800">
+    <ele>0.000000</ele>
+    <name>Molino Doll</name>
+    <cmt>Molino Doll</cmt>
+    <desc>Molino Doll</desc>
+  </wpt>
+  <wpt lat="-32.329969000" lon="-60.485658600">
+    <ele>0.000000</ele>
+    <name>Las Cuevas</name>
+    <cmt>Las Cuevas</cmt>
+    <desc>Las Cuevas</desc>
+  </wpt>
+  <wpt lat="-32.438365700" lon="-60.391159100">
+    <ele>0.000000</ele>
+    <name>Rincon del Doll</name>
+    <cmt>Rincon del Doll</cmt>
+    <desc>Rincon del Doll</desc>
+  </wpt>
+  <wpt lat="-32.420435400" lon="-60.314469300">
+    <ele>0.000000</ele>
+    <name>Petrobras Victoria</name>
+    <cmt>Petrobras Victoria</cmt>
+    <desc>Petrobras Victoria</desc>
+  </wpt>
+  <wpt lat="-33.143300700" lon="-59.315185500">
+    <ele>0.000000</ele>
+    <name>Gualeguay</name>
+    <cmt>Gualeguay</cmt>
+    <desc>Gualeguay</desc>
+  </wpt>
+  <wpt lat="-32.780491500" lon="-59.908576000">
+    <ele>0.000000</ele>
+    <name>Rincon de Nogoya</name>
+    <cmt>Rincon de Nogoya</cmt>
+    <desc>Rincon de Nogoya</desc>
+  </wpt>
+  <wpt lat="-32.476206900" lon="-59.913382500">
+    <ele>0.000000</ele>
+    <name>Febre</name>
+    <cmt>Febre</cmt>
+    <desc>Febre</desc>
+  </wpt>
+  <wpt lat="-32.372440800" lon="-59.929175400">
+    <ele>0.000000</ele>
+    <name>Belbeder</name>
+    <cmt>Belbeder</cmt>
+    <desc>Belbeder</desc>
+  </wpt>
+  <wpt lat="-32.532378000" lon="-60.035004600">
+    <ele>0.000000</ele>
+    <name>Antelo</name>
+    <cmt>Antelo</cmt>
+    <desc>Antelo</desc>
+  </wpt>
+  <wpt lat="-31.887761100" lon="-60.586853000">
+    <ele>0.000000</ele>
+    <name>Aldea Brasilera</name>
+    <cmt>Aldea Brasilera</cmt>
+    <desc>Aldea Brasilera</desc>
+  </wpt>
+  <wpt lat="-31.647682400" lon="-60.377426100">
+    <ele>0.000000</ele>
+    <name>Villa Urquiza</name>
+    <cmt>Villa Urquiza</cmt>
+    <desc>Villa Urquiza</desc>
+  </wpt>
+  <wpt lat="-31.724772400" lon="-60.294256200">
+    <ele>0.000000</ele>
+    <name>La Picada</name>
+    <cmt>La Picada</cmt>
+    <desc>La Picada</desc>
+  </wpt>
+  <wpt lat="-32.071629100" lon="-59.994599800">
+    <ele>0.000000</ele>
+    <name>Don Cristobal</name>
+    <cmt>Don Cristobal</cmt>
+    <desc>Don Cristobal</desc>
+  </wpt>
+  <wpt lat="-33.010966700" lon="-58.521423300">
+    <ele>0.000000</ele>
+    <name>Gualegauychu</name>
+    <cmt>Gualegauychu</cmt>
+    <desc>Gualegauychu</desc>
+  </wpt>
+  <wpt lat="-32.477329200" lon="-58.252258300">
+    <ele>0.000000</ele>
+    <name>Concepcion del Uruguay</name>
+    <cmt>Concepcion del Uruguay</cmt>
+    <desc>Concepcion del Uruguay</desc>
+  </wpt>
+  <wpt lat="-32.224709800" lon="-58.146858200">
+    <ele>0.000000</ele>
+    <name>Colon</name>
+    <cmt>Colon</cmt>
+    <desc>Colon</desc>
+  </wpt>
+  <wpt lat="-32.157593800" lon="-58.406066900">
+    <ele>0.000000</ele>
+    <name>Villa Elisa</name>
+    <cmt>Villa Elisa</cmt>
+    <desc>Villa Elisa</desc>
+  </wpt>
+  <wpt lat="-32.304835500" lon="-59.146957400">
+    <ele>0.000000</ele>
+    <name>Rosario del Tala</name>
+    <cmt>Rosario del Tala</cmt>
+    <desc>Rosario del Tala</desc>
+  </wpt>
+  <wpt lat="-32.689087300" lon="-58.886718700">
+    <ele>0.000000</ele>
+    <name>Urdinarrain</name>
+    <cmt>Urdinarrain</cmt>
+    <desc>Urdinarrain</desc>
+  </wpt>
+</gpx>
